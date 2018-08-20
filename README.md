@@ -7,3 +7,6 @@ And another!
 This is Sheri trying to update the text in this file.
 
 This is Jennifer updating again
+
+This is Sheri changing the file via nano.
+
